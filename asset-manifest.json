@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/SoccerStars/static/css/main.ea5f6d3e.chunk.css",
-    "main.js": "/SoccerStars/static/js/main.f7511f06.chunk.js",
-    "main.js.map": "/SoccerStars/static/js/main.f7511f06.chunk.js.map",
-    "runtime-main.js": "/SoccerStars/static/js/runtime-main.34b63ee4.js",
-    "runtime-main.js.map": "/SoccerStars/static/js/runtime-main.34b63ee4.js.map",
-    "static/css/2.eb45ad44.chunk.css": "/SoccerStars/static/css/2.eb45ad44.chunk.css",
-    "static/js/2.1ba80ad8.chunk.js": "/SoccerStars/static/js/2.1ba80ad8.chunk.js",
-    "static/js/2.1ba80ad8.chunk.js.map": "/SoccerStars/static/js/2.1ba80ad8.chunk.js.map",
-    "index.html": "/SoccerStars/index.html",
-    "precache-manifest.df76167595fe51d2cf70dc8fe3e1af18.js": "/SoccerStars/precache-manifest.df76167595fe51d2cf70dc8fe3e1af18.js",
-    "service-worker.js": "/SoccerStars/service-worker.js",
-    "static/css/2.eb45ad44.chunk.css.map": "/SoccerStars/static/css/2.eb45ad44.chunk.css.map",
-    "static/css/main.ea5f6d3e.chunk.css.map": "/SoccerStars/static/css/main.ea5f6d3e.chunk.css.map",
-    "static/js/2.1ba80ad8.chunk.js.LICENSE": "/SoccerStars/static/js/2.1ba80ad8.chunk.js.LICENSE"
+    "main.css": "/SoccerStars/public/static/css/main.ea5f6d3e.chunk.css",
+    "main.js": "/SoccerStars/public/static/js/main.96918434.chunk.js",
+    "main.js.map": "/SoccerStars/public/static/js/main.96918434.chunk.js.map",
+    "runtime-main.js": "/SoccerStars/public/static/js/runtime-main.5c30a8b2.js",
+    "runtime-main.js.map": "/SoccerStars/public/static/js/runtime-main.5c30a8b2.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/SoccerStars/public/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.1ba80ad8.chunk.js": "/SoccerStars/public/static/js/2.1ba80ad8.chunk.js",
+    "static/js/2.1ba80ad8.chunk.js.map": "/SoccerStars/public/static/js/2.1ba80ad8.chunk.js.map",
+    "index.html": "/SoccerStars/public/index.html",
+    "precache-manifest.da14144a229ddee27142e23b7283581d.js": "/SoccerStars/public/precache-manifest.da14144a229ddee27142e23b7283581d.js",
+    "service-worker.js": "/SoccerStars/public/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/SoccerStars/public/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.ea5f6d3e.chunk.css.map": "/SoccerStars/public/static/css/main.ea5f6d3e.chunk.css.map",
+    "static/js/2.1ba80ad8.chunk.js.LICENSE": "/SoccerStars/public/static/js/2.1ba80ad8.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.34b63ee4.js",
+    "static/js/runtime-main.5c30a8b2.js",
     "static/css/2.eb45ad44.chunk.css",
     "static/js/2.1ba80ad8.chunk.js",
     "static/css/main.ea5f6d3e.chunk.css",
-    "static/js/main.f7511f06.chunk.js"
+    "static/js/main.96918434.chunk.js"
   ]
 }
